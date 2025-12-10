@@ -11,7 +11,7 @@
 - **services.html** - บริการต่างๆ ของ Starbucks เช่น กาแฟ อาหาร
 - **contact.html** - ช่องทางการติดต่อ ที่ตั้งของ Starbucks
 - **images/** - โฟลเดอร์เก็บไฟล์รูปภาพต่างๆ ที่นำมาใช้
-- **README.md** -
+- **README.md** - เอกสารอธิบายข้อมูลต่างๆ
 
 ## Web Screenshots
 
