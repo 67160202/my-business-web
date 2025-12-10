@@ -29,4 +29,4 @@
 
 4. [ติดต่อ/contact.html](/contact.html)
 
-   ![alt text](image.png)
+   ![alt text](images/image.png)
